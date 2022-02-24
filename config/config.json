@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0xFCAB2804fe7E1eeF2497Fc861aD238B3c80c8325",
+  "CONTRACT_ADDRESS": "0x8c925Ae282c6Adf085bA76952c66d59c93E6bBF6",
+
+  "SCAN_LINK": "https://Etherscan.com/0x8c925Ae282c6Adf085bA76952c66d59c93E6bBF6",
+  "NETWORK": {
+    "NAME": "mumbai testnet",
+    "SYMBOL": "matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Interactable & Wearable NFTs",
+  "SYMBOL": "IWN",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 69000000000000000,
+  "COST1": 9900000000000000000000000000,
+
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/InteractableWearableNFTs",
+  "SHOW_BACKGROUND": true
+}
